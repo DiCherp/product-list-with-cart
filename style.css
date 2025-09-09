@@ -144,3 +144,49 @@ body{
     font-weight: 500;
 }
 
+.main-content {
+
+		// .main-content__product-list
+
+		&__product-list {
+		}
+
+		// .main-content__cart
+
+		&__cart {
+		}
+}
+.card {
+
+		// .card__image-block
+
+		&__image-block {
+		}
+
+		// .card__info-block
+
+		&__info-block {
+		}
+}
+.add {
+
+		// .add_btn
+
+		&_btn {
+		}
+}
+ 
+.cart {
+
+		// .cart__title
+
+		&__title {
+		}
+
+		// .cart__items
+
+		&__items {
+		}
+}
+
+
